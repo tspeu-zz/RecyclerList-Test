@@ -1,0 +1,26 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/autonected"
+    tools:context="com.b_pachango.jm.recyclerlistview_test.ui.Splash_Screen">
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:ignore="UselessParent">
+
+        <ImageView
+            android:layout_width="333dp"
+            android:layout_height="286dp"
+            app:srcCompat="@drawable/autonected"
+            android:id="@+id/iViewLogo"
+            android:contentDescription=""
+            tools:ignore="ContentDescription"
+            android:layout_gravity="center_vertical|center_horizontal"
+            android:layout_marginTop="50dp" />
+    </LinearLayout>
+</FrameLayout>

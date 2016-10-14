@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RecyclerListView_test</string>
+    <string name="test_reclycler_list">TEST RECLYCLER LIST</string>
+    <string name="buttonList">To Recycler LIST</string>
+    <string name="button">Button</string>
+    <string name="data">Name</string>
+
+    <string name="title_activity_splash__screen">Splash_Screen</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="title_activity_loading">LoadingActivity</string>
+</resources>
